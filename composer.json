@@ -1,0 +1,13 @@
+{
+    "name": "sehrgut/laravel-attachments",
+    "description": "Traits which make attaching files to your Eloquent models super easy!",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohan Klein",
+            "email": "mohan@mohanklein.de"
+        }
+    ],
+    "require": {}
+}
