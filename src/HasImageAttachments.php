@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Core\Domain\Models\Traits;
+namespace SehrGut\LaravelAttachments;
 
 use Illuminate\Support\Facades\Storage;
 use Intervention\Image\ImageManagerStatic as Image;
